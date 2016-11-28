@@ -1,0 +1,9 @@
+.app{
+    display: flex;
+}
+.tabBar-item{
+    display: flex;
+    flex: 1;
+    flex-flow: column;
+    align-items: center;
+}
