@@ -1,24 +1,24 @@
 {
-  "name": "picker-xc",
+  "name": "tab-Bar",
   "version": "1.0.0",
-  "description": "this is a picker has selector time date",
+  "description": "this is a tabBar ",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --line --hot --progress"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XcXerxes/picker-xc.git"
+    "url": "git+https://github.com/XcXerxes/TabsBar.git"
   },
   "keywords": [
-    "picker"
+    "tabBar"
   ],
   "author": "xcxerxes",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/XcXerxes/picker-xc/issues"
+    "url": "https://github.com/XcXerxes/TabsBar.git"
   },
-  "homepage": "https://github.com/XcXerxes/picker-xc#readme",
+  "homepage": "https://github.com/XcXerxes/TabsBar.git#readme",
   "dependencies": {
     "react": "^15.4.1",
     "react-dom": "^15.4.1"
